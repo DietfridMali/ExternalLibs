@@ -417,8 +417,6 @@ FodyWeavers.xsd
 !/SDL2_net-2.4.0/
 !/SDL2_ttf-2.24.0/
 !/glew-2.2.0/
-/SDL2*/**/*.h
-/glew-2.2.0/**/*.h
 
 /glm/doc
 /glm/.github/workflows
